@@ -1,6 +1,8 @@
-package com.anish.calabashbros;
+package com.anish.thing;
 
+import com.anish.maze.World;
 import java.awt.Color;
+
 
 public class Creature extends Thing {
 

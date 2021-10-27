@@ -1,4 +1,4 @@
-package com.anish.calabashbros;
+package com.anish.thing;
 
 public class Tile<T extends Thing> {
 
